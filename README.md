@@ -1,4 +1,5 @@
-# debug_API [![GitHub issues](https://img.shields.io/github/issues/getPoland/debug_API.svg?style=flat-square)](https://github.com/getPoland/debug_API/issues)
+# debug_API 
+[![GitHub issues](https://img.shields.io/github/issues/getPoland/debug_API.svg?style=flat-square)](https://github.com/getPoland/debug_API/issues)
 An API for debugging java plugins!
 
 ### Prerequisites
