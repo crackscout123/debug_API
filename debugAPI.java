@@ -9,14 +9,15 @@ public class debugAPI extends JavaPlugin{
 	  private static boolean isDebugging(){
 	    return debugging;
 	  }
-	  
+
+	  public static void debug (boolean enable) {
+		  debugging = enable;
+	  }	  
+	
 	  public static void debug (String string) {
 		  if(isDebugging()) {
 			  System.out.println("§7[§5DEBUG-API§7] §c" + string);
 		  }
-	  }
-	  public static void debug (boolean enable) {
-		  debugging = enable;
 	  }
 }
 
