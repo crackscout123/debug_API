@@ -22,7 +22,7 @@ Please help us to translate the plugin in every language, you can do this here: 
 
 ## Authors
 
-* **Joe_** - *gamework.ml* - [GAMEWORK](http://gamework.ml/)
+* **Joe_** - *baumirein.de* - [baumirein](http://baumirein.de/)
 
 ## License
 
